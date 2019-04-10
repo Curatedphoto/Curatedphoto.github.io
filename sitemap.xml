@@ -21,7 +21,7 @@
       <image:loc>http://curatedphoto.co/images/feb%2017-42.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://curatedphoto.co/images/feb%2017-35.jpg</image:loc>
+      <image:loc>http://curatedphoto.co/images/feb%2017-35472x315.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://curatedphoto.co/images/zendo%20copy.jpg</image:loc>
@@ -31,6 +31,21 @@
     </image:image>
     <image:image>
       <image:loc>http://curatedphoto.co/images/jan%2013,%202019-15.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://curatedphoto.co/images/feb%2017-42288x432.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://curatedphoto.co/images/feb%2017-35.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://curatedphoto.co/images/zendo%20copy304x456.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://curatedphoto.co/images/rio%20grande-19%20copy477x318.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://curatedphoto.co/images/jan%2013,%202019-15514x343.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://curatedphoto.co/images/feb%2017-42228x341.jpg</image:loc>
@@ -84,13 +99,7 @@
       <image:loc>http://curatedphoto.co/images/dsc_0323.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://curatedphoto.co/images/dsc_0323429x287.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://curatedphoto.co/images/dsc_0323439x293.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://curatedphoto.co/images/dsc_0323366x245.jpg</image:loc>
+      <image:loc>http://curatedphoto.co/images/dsc_0323366x244.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -156,6 +165,48 @@
       <image:loc>http://curatedphoto.co/images/rio%20grande-55%20copy.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://curatedphoto.co/images/dsc_0066350x234.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://curatedphoto.co/images/dsc_0046350x524.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://curatedphoto.co/images/feb%2017-12548x366.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://curatedphoto.co/images/feb%2017-32261x392.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://curatedphoto.co/images/rio%20grande-11261x392.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://curatedphoto.co/images/rio%20grande-18549x366.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://curatedphoto.co/images/feb%2017-46548x366.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://curatedphoto.co/images/feb%2017-49350x234.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://curatedphoto.co/images/alexiana-6350x524.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://curatedphoto.co/images/alexiana-2%20copy261x392.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://curatedphoto.co/images/alexiana-10%20copy261x392.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://curatedphoto.co/images/rio%20grande-13350x233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://curatedphoto.co/images/feb%2017-72350x524.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://curatedphoto.co/images/rio%20grande-55%20copy348x522.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://curatedphoto.co/images/dsc_0066277x185.jpg</image:loc>
     </image:image>
     <image:image>
@@ -204,7 +255,7 @@
       <image:loc>http://curatedphoto.co/images/dsc_0066241x161.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://curatedphoto.co/images/dsc_0046241x361.jpg</image:loc>
+      <image:loc>http://curatedphoto.co/images/dsc_0046241x362.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://curatedphoto.co/images/feb%2017-12378x252.jpg</image:loc>
@@ -248,7 +299,7 @@
   </url>
   <url>
     <loc>http://curatedphoto.co/booking-info---rates.html</loc>
-    <lastmod>2019-03-24</lastmod>
+    <lastmod>2019-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -266,7 +317,7 @@
   </url>
   <url>
     <loc>http://curatedphoto.co/contact.html</loc>
-    <lastmod>2019-03-24</lastmod>
+    <lastmod>2019-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
